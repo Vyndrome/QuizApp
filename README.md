@@ -1,17 +1,10 @@
-<<<<<<< HEAD
-# React + Vite
+QuizApp is a responsive and interactive quiz application built using **React**, **HTML**, **CSS**, and **JavaScript**. It fetches quiz questions from the **[Open Trivia Database](https://opentdb.com/)** API and lets users test their knowledge on various topics.
+Deployed on https://quizzir.netlify.app
+🛠️ Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-#Demo
-Some description!
->>>>>>> 47797d0d64de5049f6ee4bb80f104b4659b47bdd
+- 📡 Fetches quiz questions from the Open Trivia Database API
+- 🧠 Multiple categories and difficulty levels
+- 🧩 Interactive UI built with React and Vite
+- ✅ Instant feedback on answers
+- 🔄 Retry quiz functionality
+- 📱 Fully responsive design
